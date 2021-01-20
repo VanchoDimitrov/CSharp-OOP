@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="02.CSharpClasses\**" />
+    <Compile Remove="03.CSharpClassMethods\**" />
+    <Compile Remove="04.CSharpEncapsulation\**" />
+    <Compile Remove="05.CSharpInheritance\**" />
+    <Compile Remove="06.CSharpMultiClassInheritance\**" />
+    <Compile Remove="07.CSharpMultiInheritance\**" />
+    <Compile Remove="08.CSharpPolymorphism\**" />
+    <Compile Remove="09.CSharp-Handling-Exceptions\**" />
+    <Compile Remove="10.CSharp-Abstraction\**" />
+    <Compile Remove="CSharpClasses\**" />
+    <Compile Remove="CSharpClassMethods\**" />
+    <Compile Remove="CSharpEncapsulation\**" />
+    <Compile Remove="CSharpInheritance\**" />
+    <Compile Remove="CSharpMultiClassInheritance\**" />
+    <Compile Remove="CSharpMultiInheritance\**" />
+    <Compile Remove="CSharpPolymorphism\**" />
+    <EmbeddedResource Remove="02.CSharpClasses\**" />
+    <EmbeddedResource Remove="03.CSharpClassMethods\**" />
+    <EmbeddedResource Remove="04.CSharpEncapsulation\**" />
+    <EmbeddedResource Remove="05.CSharpInheritance\**" />
+    <EmbeddedResource Remove="06.CSharpMultiClassInheritance\**" />
+    <EmbeddedResource Remove="07.CSharpMultiInheritance\**" />
+    <EmbeddedResource Remove="08.CSharpPolymorphism\**" />
+    <EmbeddedResource Remove="09.CSharp-Handling-Exceptions\**" />
+    <EmbeddedResource Remove="10.CSharp-Abstraction\**" />
+    <EmbeddedResource Remove="CSharpClasses\**" />
+    <EmbeddedResource Remove="CSharpClassMethods\**" />
+    <EmbeddedResource Remove="CSharpEncapsulation\**" />
+    <EmbeddedResource Remove="CSharpInheritance\**" />
+    <EmbeddedResource Remove="CSharpMultiClassInheritance\**" />
+    <EmbeddedResource Remove="CSharpMultiInheritance\**" />
+    <EmbeddedResource Remove="CSharpPolymorphism\**" />
+    <None Remove="02.CSharpClasses\**" />
+    <None Remove="03.CSharpClassMethods\**" />
+    <None Remove="04.CSharpEncapsulation\**" />
+    <None Remove="05.CSharpInheritance\**" />
+    <None Remove="06.CSharpMultiClassInheritance\**" />
+    <None Remove="07.CSharpMultiInheritance\**" />
+    <None Remove="08.CSharpPolymorphism\**" />
+    <None Remove="09.CSharp-Handling-Exceptions\**" />
+    <None Remove="10.CSharp-Abstraction\**" />
+    <None Remove="CSharpClasses\**" />
+    <None Remove="CSharpClassMethods\**" />
+    <None Remove="CSharpEncapsulation\**" />
+    <None Remove="CSharpInheritance\**" />
+    <None Remove="CSharpMultiClassInheritance\**" />
+    <None Remove="CSharpMultiInheritance\**" />
+    <None Remove="CSharpPolymorphism\**" />
+  </ItemGroup>
+
+</Project>
